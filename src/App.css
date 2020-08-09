@@ -1,3 +1,26 @@
+
+.food-head{
+  font-style: oblique;
+  color: whitesmoke;
+
+}
+.footer {
+  background-color:#2F363F!important;
+  color: white;
+  font-family: 'Allura', cursive;
+}
+.footer h1{
+  font-family: 'Sintony', sans-serif;
+   color: gold;
+   font-size: 30px;
+
+}
+.nav-div{
+  background-color: #FF4848;
+  font-family: 'Leckerli One', cursive;
+  }
+
+
 .App {
   text-align: center;
 }
