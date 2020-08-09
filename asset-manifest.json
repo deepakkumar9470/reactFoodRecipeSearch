@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactFoodRecipeSearch/static/css/main.a0ebf447.chunk.css",
+    "main.js": "/reactFoodRecipeSearch/static/js/main.672aa465.chunk.js",
+    "main.js.map": "/reactFoodRecipeSearch/static/js/main.672aa465.chunk.js.map",
+    "runtime-main.js": "/reactFoodRecipeSearch/static/js/runtime-main.e2e4e9f7.js",
+    "runtime-main.js.map": "/reactFoodRecipeSearch/static/js/runtime-main.e2e4e9f7.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/reactFoodRecipeSearch/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.731e27e2.chunk.js": "/reactFoodRecipeSearch/static/js/2.731e27e2.chunk.js",
+    "static/js/2.731e27e2.chunk.js.map": "/reactFoodRecipeSearch/static/js/2.731e27e2.chunk.js.map",
+    "index.html": "/reactFoodRecipeSearch/index.html",
+    "precache-manifest.76137c7c00bb687f24e6036ec11fad90.js": "/reactFoodRecipeSearch/precache-manifest.76137c7c00bb687f24e6036ec11fad90.js",
+    "service-worker.js": "/reactFoodRecipeSearch/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/reactFoodRecipeSearch/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.a0ebf447.chunk.css.map": "/reactFoodRecipeSearch/static/css/main.a0ebf447.chunk.css.map",
+    "static/js/2.731e27e2.chunk.js.LICENSE.txt": "/reactFoodRecipeSearch/static/js/2.731e27e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2e4e9f7.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.731e27e2.chunk.js",
+    "static/css/main.a0ebf447.chunk.css",
+    "static/js/main.672aa465.chunk.js"
+  ]
+}
